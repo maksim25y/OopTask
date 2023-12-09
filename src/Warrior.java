@@ -1,4 +1,6 @@
-public class Warrior extends Hero{
+package src;
+
+public class Warrior extends Hero {
     public Warrior(String name,int health) {
         super(name,health);
     }

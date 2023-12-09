@@ -1,4 +1,6 @@
-public abstract class Enemy implements isMortal{
+package src;
+
+public abstract class Enemy implements isMortal {
     private int health;
 
     public Enemy(int health) {

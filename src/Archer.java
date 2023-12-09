@@ -1,4 +1,6 @@
-public class Archer extends Hero{
+package src;
+
+public class Archer extends Hero {
     public Archer(String name,int health) {
         super(name,health);
     }

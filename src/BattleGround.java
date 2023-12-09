@@ -1,3 +1,5 @@
+package src;
+
 public class BattleGround {
     public static void main(String[] args) {
         Zombie enemy = new Zombie(100);

@@ -1,4 +1,6 @@
-public class Zombie extends Enemy{
+package src;
+
+public class Zombie extends Enemy {
     public Zombie(int health) {
         super(health);
     }

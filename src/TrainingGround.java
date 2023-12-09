@@ -1,3 +1,5 @@
+package src;
+
 public class TrainingGround {
     public static void main(String[] args) {
         Archer hero = new Archer("Maks",100);

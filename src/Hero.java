@@ -1,4 +1,6 @@
-public abstract class Hero implements isMortal{
+package src;
+
+public abstract class Hero implements isMortal {
 
     private String name;
     private int health;
